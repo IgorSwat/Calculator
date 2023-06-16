@@ -3,7 +3,7 @@
 A simple scientific calculator.
 
 
-![image](https://github.com/IgorSwat/Calculator/assets/114943112/61afda70-e888-4d32-9a9b-16685191af07)
+<img src="https://github.com/IgorSwat/Calculator/assets/114943112/61afda70-e888-4d32-9a9b-16685191af07" alt="image" width="500" height="440">
 
 # Compiling
 Requirements:
